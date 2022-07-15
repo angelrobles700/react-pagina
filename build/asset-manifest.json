@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-pagina/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-pagina/static/js/main.4f1597df.chunk.js",
+    "main.js.map": "/react-pagina/static/js/main.4f1597df.chunk.js.map",
+    "runtime-main.js": "/react-pagina/static/js/runtime-main.93510095.js",
+    "runtime-main.js.map": "/react-pagina/static/js/runtime-main.93510095.js.map",
+    "static/css/2.98705a83.chunk.css": "/react-pagina/static/css/2.98705a83.chunk.css",
+    "static/js/2.92cd5f58.chunk.js": "/react-pagina/static/js/2.92cd5f58.chunk.js",
+    "static/js/2.92cd5f58.chunk.js.map": "/react-pagina/static/js/2.92cd5f58.chunk.js.map",
+    "index.html": "/react-pagina/index.html",
+    "precache-manifest.f8e8a0f91535eab66b32f7ddd212b4aa.js": "/react-pagina/precache-manifest.f8e8a0f91535eab66b32f7ddd212b4aa.js",
+    "service-worker.js": "/react-pagina/service-worker.js",
+    "static/css/2.98705a83.chunk.css.map": "/react-pagina/static/css/2.98705a83.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-pagina/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.92cd5f58.chunk.js.LICENSE.txt": "/react-pagina/static/js/2.92cd5f58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93510095.js",
+    "static/css/2.98705a83.chunk.css",
+    "static/js/2.92cd5f58.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4f1597df.chunk.js"
+  ]
+}
